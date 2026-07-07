@@ -1,0 +1,15 @@
+# Betriebssystem
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# Temporäre Dateien
+*.tmp
+*.log
+
+# Keine entpackten Updatepakete versionieren
+*.sbwupdate/
+_update_tmp/
